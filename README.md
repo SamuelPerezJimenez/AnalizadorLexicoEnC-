@@ -11,7 +11,6 @@
 7. cadena
 8. leer
 9. imprimir
-<br />
 ```
 
 ## Ejemplo
