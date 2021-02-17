@@ -2,15 +2,15 @@
 
 ## Documentacion
 ```Este analizar léxico reconoce las siguientes palabras:
-comenzar<br />
-finalizar<br />
-constante<br />
-variable<br />
-entero<br />
-real<br />
-cadena<br />
-leer<br />
-imprimir<br />
+1. comenzar
+2. finalizar
+3. constante
+4. variable
+5. entero
+6. real
+7. cadena
+8. leer
+9. imprimir
 <br />
 ```
 
