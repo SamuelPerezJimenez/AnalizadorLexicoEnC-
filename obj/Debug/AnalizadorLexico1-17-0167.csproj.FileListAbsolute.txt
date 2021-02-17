@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\AnalizadorLexico1-17-0167\AnalizadorLexico1-17-0167\bin\Debug\AnalizadorLexico1-17-0167.exe.config
+C:\Users\USER\source\repos\AnalizadorLexico1-17-0167\AnalizadorLexico1-17-0167\bin\Debug\AnalizadorLexico1-17-0167.exe
+C:\Users\USER\source\repos\AnalizadorLexico1-17-0167\AnalizadorLexico1-17-0167\bin\Debug\AnalizadorLexico1-17-0167.pdb
+C:\Users\USER\source\repos\AnalizadorLexico1-17-0167\AnalizadorLexico1-17-0167\obj\Debug\AnalizadorLexico1-17-0167.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\AnalizadorLexico1-17-0167\AnalizadorLexico1-17-0167\obj\Debug\AnalizadorLexico1_17_0167.MainForm.resources
+C:\Users\USER\source\repos\AnalizadorLexico1-17-0167\AnalizadorLexico1-17-0167\obj\Debug\AnalizadorLexico1_17_0167.Properties.Resources.resources
+C:\Users\USER\source\repos\AnalizadorLexico1-17-0167\AnalizadorLexico1-17-0167\obj\Debug\AnalizadorLexico1-17-0167.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\AnalizadorLexico1-17-0167\AnalizadorLexico1-17-0167\obj\Debug\AnalizadorLexico1-17-0167.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AnalizadorLexico1-17-0167\AnalizadorLexico1-17-0167\obj\Debug\AnalizadorLexico1-17-0167.exe
+C:\Users\USER\source\repos\AnalizadorLexico1-17-0167\AnalizadorLexico1-17-0167\obj\Debug\AnalizadorLexico1-17-0167.pdb
